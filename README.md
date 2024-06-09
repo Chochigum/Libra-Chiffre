@@ -1,5 +1,7 @@
 Libra-Chiffre is a 40% keyboard with the Le Chiffre Layout and a stacked sheet case assembly similar to the Libra Mini, hence the name Libra Chiffre.
 
+![image](https://github.com/Chochigum/Libra-Chiffre/assets/150053436/2cad1024-0bdb-4a47-a47b-89abb1dd07cc)
+
 specs:
 acrylic sheet thickness: 3mm
 tenting angle: 7°
