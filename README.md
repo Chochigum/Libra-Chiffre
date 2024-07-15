@@ -1,5 +1,6 @@
-Libra-Chiffre is a 40% keyboard with the Le Chiffre Layout and a stacked sheet case assembly similar to the Libra Mini, hence the name Libra Chiffre.
+Libra-Chiffre (aka. El Chibre) is a 40% keyboard with the Le Chiffre Layout and a stacked sheet case assembly similar to the Libra Mini, hence the name Libra Chiffre.
 
+![render1](https://github.com/user-attachments/assets/c0d8571e-2c5b-47fe-b0e7-39c86269415d)
 ![image](https://github.com/Chochigum/Libra-Chiffre/assets/150053436/2cad1024-0bdb-4a47-a47b-89abb1dd07cc)
 
 specs:
