@@ -12,6 +12,6 @@ inward angle: 7°
 these stl files are ready for 3d printing.
 m6 flat screws, m6 nuts and m6 standoffs are required for assembly.
 
-these files are untested! use at own risk.
+these files are untested! use at own risk. If you do build one please show me though lol
 
 created by Dino. dm me on discord @dinobx for feedback/support
